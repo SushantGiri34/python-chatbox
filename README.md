@@ -1,7 +1,6 @@
 # SimpleBot - Python Chatbot 🤖
 
 **SimpleBot** is a simple Python chatbot that responds to user messages, answers Python questions, tells jokes, gives motivational messages, and more. Perfect for beginners to learn Python and create their first interactive chatbot!
-
 ---
 
 ## 🚀 Features
